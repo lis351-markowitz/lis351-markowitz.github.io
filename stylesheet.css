@@ -35,14 +35,6 @@ main {
     margin: 20px;
 }
 
-article {
-    background-color: #716f78;
-    padding: 10px;
-    margin: 10px;
-    width: 280px;
-    float: left
-}
-
 footer {
     background-color: #eae6f7;
     padding: 10px;
